@@ -1,6 +1,6 @@
 # Hi, I'm Shreya 👋🏾 👩🏾‍💻
 
-<img src="C:\Users\Navneet Singh\Downloads\practical advice for developers ideas page instagram post (2).png" alt="banner that says Shreya Singh - software developer, content creator and community organizer alongside a cartoon illustration of Shreya">
+<img src="https://raw.githubusercontent.com/C:\Users\Navneet Singh\OneDrive\Desktop\itsShreya\itsShreya\practical advice for developers ideas page instagram post.mp4" alt="banner that says Shreya Singh - software developer, content creator and community organizer alongside a cartoon illustration of Shreya">
 I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, MERN stack & Jamstack (JavaScript, APIs + Markup) and MongoDb & mySQL.
 
 
