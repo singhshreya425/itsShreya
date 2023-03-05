@@ -1,6 +1,6 @@
 # Hi, I'm Shreya 👋🏾 👩🏾‍💻
 
-<img src="C:\Users\Navneet Singh\OneDrive\Desktop\itsShreya\itsShreya\practical advice for developers ideas page instagram post (2).png" >
+<img src="https://github.com/mishmanners/MishManners/blob/master/MishManners%20Room%20animated.gif" >
 I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, MERN stack & Jamstack (JavaScript, APIs + Markup) and MongoDb & mySQL.
 
 
