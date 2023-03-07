@@ -1,7 +1,7 @@
 # Hi, I'm Shreya 👋🏾 👩🏾‍💻
 
 <img src="https://github.com/mishmanners/MishManners/blob/master/MishManners%20Room%20animated.gif" >
-I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, MERN stack & Jamstack (JavaScript, APIs + Markup) and MongoDb & mySQL.
+I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include NodeJS,ReactJS, MERN stack & Jamstack (JavaScript, APIs + Markup) and MongoDb & mySQL.
 
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/mishmanners/MishManners/master/My-OctocatsShortest.gif"></a>
