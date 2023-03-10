@@ -1,7 +1,9 @@
 # Hi, I'm Shreya 👋🏾 👩🏾‍💻
 
 <img src="https://github.com/mishmanners/MishManners/blob/master/MishManners%20Room%20animated.gif" >
-I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include NodeJS,ReactJS, MERN stack & Jamstack (JavaScript, APIs + Markup) and MongoDb & mySQL.
+=> I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. 
+
+=> Some technologies I enjoy working with include NodeJS,ReactJS, MERN stack & Jamstack (JavaScript, APIs + Markup) and MongoDb & mySQL.
 
 => As a Fullstack Developer with expertise in both backend and frontend development, I bring a wealth of experience in utilizing the MERN stack, Git, Github, AWS S3, Redis, HTML, CSS, JavaScript, Postman, Axios, MongoDB, Express JS, React JS, and Node JS to build high-quality applications.
 
